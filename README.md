@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a results-driven Software Engineer with over three years of experience specializing in Python, Django, and ReactJS. <br>My passion for crafting elegant and efficient software solutions has led me to excel in delivering high-quality projects that meet and exceed client expectations.
+I am a results-driven Software Engineer with 4+ years of experience specializing in Python, Django, and ReactJS. <br>My passion for crafting elegant and efficient software solutions has led me to excel in delivering high-quality projects that meet and exceed client expectations.
 
 
 ## 🌐 Socials:
