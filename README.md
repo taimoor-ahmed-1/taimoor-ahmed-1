@@ -1,21 +1,31 @@
-# 💫 About Me:
-I am a results-driven Software Engineer with 4+ years of experience specializing in Python, Django, and ReactJS. <br>My passion for crafting elegant and efficient software solutions has led me to excel in delivering high-quality projects that meet and exceed client expectations.
+# Taimoor Ahmed
 
+**Principal Software Engineer** · Open edX Core Contributor · Islamabad, Pakistan
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/taimoor-ahmed) 
+I build and scale learning platforms — and the systems that keep them running, standardized, and paid for. Currently leading 12+ engineers delivering custom Open edX solutions for enterprise clients, owning architecture, infrastructure, billing and data migrations.
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=flat&logo=git&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=taimoor-ahmed-1&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=taimoor-ahmed-1&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=taimoor-ahmed-1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## Open Source
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=taimoor-ahmed-1&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+I hold **write and merge access** to [`openedx/openedx-platform`](https://github.com/openedx/openedx-platform) — the core Open edX platform (8k+ stars, 4k+ forks).
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=taimoor-ahmed-1&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- **[openedx/forum](https://github.com/openedx/forum)** — Re-platformed the Open edX discussions service: replaced the legacy Ruby `cs_comments_service`, then migrated the datastore from MongoDB to MySQL and removed the Mongo backend entirely. This eliminated the last non-Python service from every Open edX installation. I maintain its release line (0.1.x → 0.4.x).
+- **FC-0118 API standardization** — Authored the architecture decision records that now govern error handling, versioning, GET idempotency, permissions and auth platform-wide, then applied them across the platform's standardized APIs.
+- **[openedx/frontend-app-gradebook](https://github.com/openedx/frontend-app-gradebook)** — Migrated enrollment API calls from v1 to v2.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Research
+
+**FinAI-Trader: Sentiment-Enhanced Reinforcement Learning for Bitcoin Trading** — PPO agents in the FinRL environment, enriched with sentiment and risk features generated by the DeepSeek LLM, targeting portfolio optimization and generalization to unseen assets.
+
+*T. Ahmed, N. Azhar, S. Arshad, M. Fatima — IEEE CSCloud 2025* · [doi:10.1109/CSCloud66326.2025.00067](https://doi.org/10.1109/CSCloud66326.2025.00067)
+
+Currently completing an MS in Data Science at NUST SEECS.
+
+## Tech
+
+`Python` `Django` `Django REST Framework` `React` `Redux` `PostgreSQL` `MySQL` `MongoDB` `Redis` `Celery` `AWS` `Docker` `Nginx` `CI/CD` `Pytest` `Jest` `PyTorch`
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/taimoor-ahmed)
+
+![](https://github-readme-stats.vercel.app/api?username=taimoor-ahmed-1&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
